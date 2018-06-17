@@ -1,0 +1,7 @@
+Denna utmaning går ut på att korrekt placera koden så att den körs
+och visas för användaren. Här ska ni skriva ut två texter, "Hej Kaj"
+och "Hallå Bojen" och hålla applikationen öppen tills användaren
+har tryckt på enter.
+
+Tips: Console.WriteLine(), Console.ReadLine()
+(Använd resultat.png för att kolla om du gjort rätt)

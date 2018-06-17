@@ -1,0 +1,13 @@
+Denna utmaning går ut på att lära sig hur man arbetar med strängar
+på olika sätt. Du ska skapa tre variabler för namn, befattning och ämne
+(eller lek runt med vad du vill). Du ska därefter skriva en rad med
+titel för varje kolumn följt av tre rader du formaterat med string
+concatenation, String.Format() och string interpolation.
+
+För att skapa jämna mellanrum kan du använda dig av escape sequences.
+
+
+
+Tips: Strings, String concatenation, String.Format(), String Interpolation,
+Escape sequences/characters
+(Använd resultat.png för att kolla om du gjort rätt)

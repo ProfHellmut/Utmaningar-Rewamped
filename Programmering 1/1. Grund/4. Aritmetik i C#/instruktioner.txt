@@ -1,0 +1,14 @@
+I denna utmaning testar vi på hur man använder simpel aritmetik i
+C#. Här ska du skapa variabler med passande datatyp för att utföra
+addition, subtraktion, multiplikation, division och modulus.
+
+Börja med att välja vilken datatyp du vill lagra talet i och
+tilldela därefter en matematisk operation, t.ex "5+5". När du har
+gjort detta formaterar du en sträng på ett snyggt sätt som visar
+ditt tal följt av variabeln som svaret.
+
+OBS: Glöm inte att man inte kan dela med 0 och att det är viktigt
+att du inte glömmer skriva rätt syntax för exempelvis en "float".
+
+Tips: C#-Variabler.pdf C#-Operander.pdf
+(Använd resultat.png för att kolla om du gjort rätt)

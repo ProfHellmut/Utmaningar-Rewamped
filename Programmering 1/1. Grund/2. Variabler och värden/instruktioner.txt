@@ -1,0 +1,21 @@
+Denna utmaning går ut på att skapa variabler för olika datatyper
+för att lättare få en överblick på deras användningsområden samt
+skillnaden på dem.
+
+Här ska ni skapa variabler och tilldela värden för:
+int
+long
+float
+double
+decimal
+char
+string
+bool
+
+För att se en verklig skillnad mellan float, double och decimal
+kan ni tilldela värdet "XX.1234567891011121314151617181920" plus
+eventuell specialkaraktär som kan krävas för tilldelning, byt
+ut "XX" mot valfri siffra.
+
+Tips: Console.WriteLine(), Console.ReadLine(), C#-Variabler.pdf
+(Använd resultat.png för att kolla om du gjort rätt)
