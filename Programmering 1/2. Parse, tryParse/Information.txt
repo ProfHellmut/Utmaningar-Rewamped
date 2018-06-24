@@ -1,8 +1,10 @@
-I denna sektion finns utmaningar som ska hjälpa dig att förstå den
-absoluta grunden för hur man skapar ett projekt i C# och använder
-grundläggande kodsatser.
+I denna sektion finns utmaningar som ska hjälpa dig att förstå hur
+man översätter en datatyp till en annan(exempelvis string till int)
+med hjälp av ToString, Parse och TryParse.
 
 I denna sektion kommer vi att gå igenom:
-	Interaktion med användaren
-	Datatyper
-	Variabler
+	ToString
+	Parse
+	TryParse
+
+https://www.dotnetperls.com/cast

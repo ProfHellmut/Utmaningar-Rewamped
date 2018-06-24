@@ -1,0 +1,13 @@
+Denna utmaning går ut på att testa på hur man med metoden
+ToString översätter en integer till en sträng.
+
+Skapa två variabler, en med datatypen int och en med datatypen
+string. I din integer tilldelar du värdet 45. Nu ska du tilldela
+värdet från din integer till din sträng och här måste du använda
+dig av ToString för att översätta datatypen int till string.
+
+Gör en utskrift nu till konsolen där du visar värdet samt variabelns
+datatyp.
+
+Tips: ToString, GetType
+(Använd resultat.png för att kolla om du gjort rätt)

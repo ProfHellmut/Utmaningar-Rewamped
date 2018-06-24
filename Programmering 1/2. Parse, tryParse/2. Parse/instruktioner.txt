@@ -1,0 +1,4 @@
+Denna utmaning går ut på att se hur en Parse fungerar.
+
+Tips: Parse, GetType
+(Använd resultat.png för att kolla om du gjort rätt)
