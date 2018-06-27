@@ -1,0 +1,19 @@
+(Mer villkors-nötning än utmaning)
+Som vi vet sen tidigare kan en bool hålla två värden, true och false,
+men det betyder inte att vi måste tilldela just nyckelorden true/false
+utan istället kan vi skriva ett villkor som i sin tur resulterar i
+något av dessa. Exempelvis 1 + 1 == 2 blir true, då 1 + 1 är 2. Man kan
+även jämföra andra variabler för att skapa villkor. Säg att vi har två
+strängar, en med värdet "Hej" och en med värdet "hej", jämför vi dom
+med "==" får vi resultatet false. ("Hej" == "hej").
+
+Här ska du skapa så många variabler av datatypen bool som möjligt
+och ge dem värdena av olika villkor.
+
+Sist skapar du en if-sats vars argument(inom parentesen) är en av dina
+bool-variabler. Inuti kodblocket för if-satsen gör du en valfri utskrift
+till konsolen. Testa så många argument tills du känner att du förstår dem.
+
+
+Tips: If, conditionals, bool, C#-Operatorer.pdf
+(Använd resultat.png för att kolla om du gjort rätt)

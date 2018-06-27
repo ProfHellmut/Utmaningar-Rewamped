@@ -1,0 +1,16 @@
+Om vi måste testa ett värde mot många utfall kan det bli
+ganska bökigt med en if-sats. Istället kan vi använda oss
+av en switch-sats. En switch-sats tar emot ett värde och
+låter oss jämföra värdet mot s.k. "cases", stämmer värdet
+överens med ett case så körs koden.
+
+I denna utmaning ska du skapa en meny med ett flertal val.
+När användaren har gjort ett val ska valfri text skrivas ut,
+om användaren skriver in ett ogiltigt menyval ska meddelandet
+"Inget giltigt val.." skrivas ut.
+
+OBS: "default"-satsen krävs inte för att en switch ska fungera. 
+Kan jämföras med en if-sats "else"-sats
+
+Tips: Switch, TryParse
+(Använd resultat.png för att kolla om du gjort rätt)

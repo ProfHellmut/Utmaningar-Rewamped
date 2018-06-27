@@ -1,0 +1,11 @@
+Ibland behöver vi använda oss av flera villkor i ett och samma
+argument. (Exempel: "OM detta är sant OCH detta är sant, kör kod")
+
+I denna utmaning ska du be användaren om ett tal mellan 1-10.
+Detta tal ska du sedan kolla i en if-sats och om talet ligger
+någonstans mellan 1-10 ska du göra en utskrift till användaren.
+
+
+
+Tips: If, conditionals, bool, C#-Operatorer.pdf, Parse, TryParse
+(Använd resultat.png för att kolla om du gjort rätt)

@@ -1,0 +1,22 @@
+När vi gör beslut så kan det hända att vi vill göra olika saker
+beroende på vilket utfall vi fick. Vi tar som exempel ett program
+där man kan säga "hej" och "hejdå" och få olika svar tillbaka.
+En lösning på detta problem är att skapa två if-satser där vi
+kollar användarens inmatning, är inmatningen fel kanske vi använder
+ett "else" block för att berätta det för användaren. Detta betyder
+att vi nu har två olika if-satser med likadana "else" block. En
+annan lösning på detta är att använda sig av ett "else if" block.
+"else if" tillåter oss att addera ytterligare ett argument som ska
+testas utan att behöva skapa en ny if-sats.
+
+I denna utmaning ska du skapa en if/else if/else där du kollar om
+användaren matat in orden "katt" eller "hund". Har användaren matat
+in "katt" så skriver du ut "Meow!" till konsolen och för "hund"
+skriver du ut "Voff!". Har användaren inte matat in någon av dessa
+skriver du ut "Inkorrekt inmatning!".
+
+
+OBS: Du kan använda hur många "else if" block som helst!
+
+Tips: If/else, conditionals, bool, C#-Operatorer.pdf, TryParse
+(Använd resultat.png för att kolla om du gjort rätt)

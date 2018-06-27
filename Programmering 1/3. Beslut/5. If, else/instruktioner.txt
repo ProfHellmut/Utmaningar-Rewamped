@@ -1,0 +1,16 @@
+När vi gör beslut och kollar våra villkor så får vi ibland utfall
+som inte ger oss ett "true". I dessa fall kanske vi vill göra något
+ändå som att exempelvis berätta för användaren att denne gjorde en
+ogiltig inmatning.
+
+I denna utmaning ska du testa på hur man använder ett "else" block
+i en if-sats. Du ska be användaren om en siffra som du ska försöka
+översätta med en TryParse. Boolvärdet du får av översättningen ska
+du använda som argument i din if-sats. Om TryParse lyckades ska du
+skriva ut "Korrekt inmatning!", annars ska du skriva ut "Inkorrekt
+inmatning!".
+
+
+
+Tips: If/else, conditionals, bool, C#-Operatorer.pdf, TryParse
+(Använd resultat.png för att kolla om du gjort rätt)

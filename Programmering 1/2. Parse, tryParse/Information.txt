@@ -1,10 +1,11 @@
 I denna sektion finns utmaningar som ska hjälpa dig att förstå hur
-man översätter en datatyp till en annan(exempelvis string till int)
-med hjälp av ToString, Parse och TryParse.
+man översätter en datatyp till en annan med hjälp av ToString, Parse
+och TryParse.
 
 I denna sektion kommer vi att gå igenom:
 	ToString
 	Parse
 	TryParse
 
+Finns inga utmaningar om casting än men här finns info!
 https://www.dotnetperls.com/cast

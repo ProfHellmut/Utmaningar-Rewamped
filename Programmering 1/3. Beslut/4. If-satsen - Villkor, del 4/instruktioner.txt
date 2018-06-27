@@ -1,0 +1,11 @@
+Ibland behöver vi använda oss av flera villkor i ett och samma
+argument. (Exempel: "OM detta är sant ELLER detta är sant, kör kod")
+
+I denna utmaning ska du kolla med användaren vilket denne gillar bäst:
+katt eller hund. När användaren matar in antingen "katt" eller hund"
+ska du göra utskriften "Båda är fantastiska!" till konsolen.
+
+
+
+Tips: If, conditionals, bool, C#-Operatorer.pdf, Parse, TryParse
+(Använd resultat.png för att kolla om du gjort rätt)

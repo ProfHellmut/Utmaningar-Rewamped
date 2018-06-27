@@ -1,8 +1,12 @@
-I denna sektion finns utmaningar som ska hjälpa dig att förstå den
-absoluta grunden för hur man skapar ett projekt i C# och använder
-grundläggande kodsatser.
+Det kommer situationer när vi kodar där vi behöver göra beslut
+beroende på hur användaren interagerar med våra applikationer.
+Det kan vara att vi måste kolla om ett tal är lägre än 10 till
+att kolla vilket menyval en användare har gjort.
+
+I denna sektion finns utmaningar som ska hjälpa dig att förstå hur
+man på olika sätt gör beslut med kod.
 
 I denna sektion kommer vi att gå igenom:
-	Interaktion med användaren
-	Datatyper
-	Variabler
+	Conditionals(C#-Operatorer.pdf)
+	If/else if/else
+	Switch

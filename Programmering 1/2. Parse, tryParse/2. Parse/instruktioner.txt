@@ -1,4 +1,15 @@
 Denna utmaning går ut på att se hur en Parse fungerar.
 
+Här ska du skapa en variabel med datatypen sträng och ge
+den värdet "100". Därefter ska du skapa en byte, int, long,
+float, double och decimal och ge dessa värdet av strängen
+med hjälp av Parse. Sist så skriver du ut värdena för dessa
+variabler på ett snyggt sätt med GetType så att man ser vad
+som är vad.
+
+(Testa även vad som händer om du försöker använda Parse på
+ett värde som inte är numeriskt i strängformat, exempelvis
+"Hejsan")
+
 Tips: Parse, GetType
 (Använd resultat.png för att kolla om du gjort rätt)

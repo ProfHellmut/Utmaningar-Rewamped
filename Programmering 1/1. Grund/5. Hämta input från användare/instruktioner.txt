@@ -1,0 +1,8 @@
+I denna utmaning ska du lära dig hur man tar emot värden
+från användaren. Här ska du göra en utskrift som ber användaren
+att skriva sitt namn. Namnet ska du lagra i en sträng som du
+sedan använder i en andra utskrift där programmet säger "hej"
+följt av namnet som skrevs in.
+
+Tips: Console.Write, Console.ReadLine
+(Använd resultat.png för att kolla om du gjort rätt)

@@ -1,0 +1,14 @@
+Denna utmaning går ut på att se hur en TryParse fungerar.
+
+Vi använder Parse för att översätta ett värde till ett annat
+när vi är säkra på att det kan översättas. Ibland är vi osäkra
+på om en översättning faktiskt går att göra och i sånna fall
+vill vi använda oss av en TryParse.
+
+Här ska du skapa två strängar med värdena "Hej" och "123".
+Du ska nu försöka översätta dessa två värdena till en integer
+och därefter ska du skriva ut de booleanska resultaten till
+konsolen.
+
+Tips: TryParse, bool
+(Använd resultat.png för att kolla om du gjort rätt)

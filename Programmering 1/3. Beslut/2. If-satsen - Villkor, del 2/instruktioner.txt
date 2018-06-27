@@ -1,0 +1,11 @@
+Ett villkor behöver inte placeras direkt in i en variabel av
+typen bool utan skrivs oftast direkt i en if-sats. 
+
+I denna utmaning ska du ta in ett meddelande från en användare 
+och skriva ut en text om meddelandet stämmer överens med villkoret.
+Vilken text och vilket ord du använder i din if-sats är helt upp
+till dig. Kom ihåg att det är viktigt att du matchar ordet exakt
+då versaler och gemener har olika ASCII-koder.
+
+Tips: If, conditionals, bool, C#-Operatorer.pdf
+(Använd resultat.png för att kolla om du gjort rätt)
