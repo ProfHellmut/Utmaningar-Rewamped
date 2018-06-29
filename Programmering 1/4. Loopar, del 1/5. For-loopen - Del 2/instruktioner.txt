@@ -1,0 +1,10 @@
+I denna utmaning ska du skapa en applikation där en
+användare får välja vilken multiplikationstabell som
+ska skrivas ut.
+
+Användaren möts av en titel följt av en text som frågar
+efter en siffra. När användaren matat in en siffra skrivs
+den siffrans multiplikationstabell ut.
+
+Tips: For-loop, indexer, Parse, TryParse
+(Använd resultat.png för att kolla om du gjort rätt)

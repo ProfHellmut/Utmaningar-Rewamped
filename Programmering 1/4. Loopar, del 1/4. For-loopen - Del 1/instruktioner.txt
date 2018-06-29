@@ -1,0 +1,8 @@
+For-loopen används när vi vill loopa ett bestämt antal gånger.
+
+I denna utmaning ska du skapa en For-loop som loopar 10 gånger
+och skriver ut vilken iteration loopen genomfört(se bild).
+
+
+Tips: For-loop, indexer
+(Använd resultat.png för att kolla om du gjort rätt)

@@ -1,0 +1,12 @@
+Eftersom en While-loop itererar så länge villkoret stämmer
+kan man skapa en oändlig loop genom att bara skriva "true"
+som argument. Oändliga loopar kan vara nyttiga att använda,
+men även dessa kan vi behöva stoppa och det kan vi göra med
+nyckelordet "break".
+
+Du ska skapa en oändlig loop som bara kan avslutas genom att
+användaren skriver "exit".
+
+
+Tips: While-loop
+(Använd resultat.png för att kolla om du gjort rätt)

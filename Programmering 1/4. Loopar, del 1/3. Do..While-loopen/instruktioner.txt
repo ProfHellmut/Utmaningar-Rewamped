@@ -1,0 +1,12 @@
+En Do..While-loop fungerar likadant som en While-loop med
+undantaget att den kör koden inuti sitt kodblock minst en
+gång.
+
+I denna utmaning ska du simulera en meny med menyval. En
+applikation som använder sig av en meny måste visa upp menyn
+minst en gång. Därefter ska applikationen fråga om användaren
+vill se menyn igen.
+
+
+Tips: Do..While-loop
+(Använd resultat.png för att kolla om du gjort rätt)

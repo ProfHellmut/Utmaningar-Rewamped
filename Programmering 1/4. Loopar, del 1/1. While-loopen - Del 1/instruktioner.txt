@@ -1,0 +1,9 @@
+En While-loop itererar tills ett villkor inte längre stämmer.
+I denna utmaning ska du använda dig av en While-loop som ska
+fråga användaren om ett input tills användaren skriver "exit".
+
+Villkoret här blir då "så länge input inte är "exit", loopa".
+
+
+Tips: While-loop
+(Använd resultat.png för att kolla om du gjort rätt)

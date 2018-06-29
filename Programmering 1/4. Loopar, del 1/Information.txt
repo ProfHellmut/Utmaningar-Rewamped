@@ -1,8 +1,16 @@
-I denna sektion finns utmaningar som ska hjälpa dig att förstå den
-absoluta grunden för hur man skapar ett projekt i C# och använder
-grundläggande kodsatser.
+I denna sektion ska vi arbeta med kodrepetition/loopar.
+Loopar behövs när vi behöver iterera(repetera) kod tills
+vi uppnår ett önskvärt resultat eller om vi har ett moment
+som behöver repeteras, exempelvis en meny.
+
+Vi börjar med att gå igenom While-loopen. Denna loop tar
+in ett villkor som argument och repeterar koden tills 
+argumentet blir falskt. Följt tar vi Do..While-loopen som
+fungerar likadant som While-loopen med undantaget att den
+kör koden minst en gång. Sist går vi igenom For-loopen som
+repeterar kod ett satt antal gånger.
 
 I denna sektion kommer vi att gå igenom:
-	Interaktion med användaren
-	Datatyper
-	Variabler
+	While-loopen
+	Do..While-loopen
+	For-loopen
