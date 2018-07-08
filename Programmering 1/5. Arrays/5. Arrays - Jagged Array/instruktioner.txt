@@ -1,0 +1,10 @@
+Om det inte var nog med arrays med flera dimensioner så har
+vi jagged arrays, arrayer i arrayer.
+
+I denna utmaning ska du testa på att skapa en jagged array
+med 3 platser. Datatypen ska vara integer och för varje array
+ska du ha 5 platser. Tilldela värden och skriv ut sen till
+konsolen.
+
+Tips: Arrays, Jagged Array, For loop, foreach
+(Använd resultat.png för att kolla om du gjort rätt)

@@ -10,7 +10,10 @@ fungerar likadant som While-loopen med undantaget att den
 kör koden minst en gång. Sist går vi igenom For-loopen som
 repeterar kod ett satt antal gånger.
 
+OBS: Foreach-loopen lär vi oss i nästa sektion "Arrays".
+
 I denna sektion kommer vi att gå igenom:
 	While-loopen
 	Do..While-loopen
 	For-loopen
+	Nästlade for-loopar

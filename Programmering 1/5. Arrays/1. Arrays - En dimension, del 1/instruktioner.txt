@@ -1,0 +1,8 @@
+(Mer nötning än utmaning)
+Här ska du lära dig hur man skapar och tilldelar värden
+till en array med en dimension. Skapa en array av varje
+datatyp du har lärt dig, tilldela olika värden och skriv
+sedan ut värdena till konsolen.
+
+Tips: Arrays, one dimension arrays
+(Använd resultat.png för att kolla om du gjort rätt)

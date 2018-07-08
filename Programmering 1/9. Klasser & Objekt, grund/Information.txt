@@ -1,8 +1,0 @@
-I denna sektion finns utmaningar som ska hjälpa dig att förstå den
-absoluta grunden för hur man skapar ett projekt i C# och använder
-grundläggande kodsatser.
-
-I denna sektion kommer vi att gå igenom:
-	Interaktion med användaren
-	Datatyper
-	Variabler

@@ -1,0 +1,10 @@
+En array kan bestå av flera dimensioner och ibland kan
+dessa komma till bra användning.
+
+I denna utmaning ska du skapa en int array med två dimensioner.
+Ge den första dimensionen 5 platser och den andra 10 och fyll
+sedan platserna med värden med hjälp av for-loopar. Skriv därefter
+ut dessa värden till konsolen.
+
+Tips: Arrays, two dimensional arrays, for loop
+(Använd resultat.png för att kolla om du gjort rätt)

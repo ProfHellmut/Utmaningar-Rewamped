@@ -1,0 +1,11 @@
+Foreach-loopen är väldigt nyttig när det gäller att iterera
+genom en array. Foreach-loopen går igenom varje position
+utan att vi behöver specificera antal iterationer och ger
+oss en variabel att arbeta på för varje iteration.
+
+I denna utmaning ska du skapa en array av vilken datatyp du
+vill och sedan iterera genom den med en foreach-loop och skriva
+ut värden till konsolen.
+
+Tips: Arrays, one dimension arrays, foreach loop
+(Använd resultat.png för att kolla om du gjort rätt)

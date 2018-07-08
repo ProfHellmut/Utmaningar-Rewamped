@@ -1,0 +1,11 @@
+Vi kan med hjälp av for-loopen iterera igenom vår array för
+tilldelning och för att snabbt kunna arbeta på alla positioner
+i vår array.
+
+I denna utmaning ska du skapa en array med 10 positioner. Varje
+position ska fyllas med ett värde från en for-loops indexer (i).
+När positionerna har blivit fyllda ska du skriva ut värdena på
+ett läsbart sätt till konsolen.
+
+Tips: Arrays, one dimension arrays, for loop, array.Length
+(Använd resultat.png för att kolla om du gjort rätt)

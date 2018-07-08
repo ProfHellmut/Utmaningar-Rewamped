@@ -1,8 +1,12 @@
-I denna sektion finns utmaningar som ska hjälpa dig att förstå den
-absoluta grunden för hur man skapar ett projekt i C# och använder
-grundläggande kodsatser.
+I denna sektion finns utmaningar som ska hjälpa dig att förstå hur
+man använder sig av samlingar av typen array. Samlingar i programmering
+används hela tiden och är väldigt nyttiga att använda, så håll dig kvar
+i den här sektionen tills du känner att du har ett bra grepp om dem.
+
 
 I denna sektion kommer vi att gå igenom:
-	Interaktion med användaren
-	Datatyper
-	Variabler
+	Arrays med en dimension
+	Arrays med två dimensioner
+	Jagged Arrays
+	Arrays och for-loopen
+	Arrays och foreach-loopen
